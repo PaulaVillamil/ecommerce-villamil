@@ -1,0 +1,10 @@
+.header_desktop {
+    display: none;
+
+    @media (min-width:576px) {
+        width: 100%;
+        display: inline;
+        justify-content: center;
+    }
+
+}
